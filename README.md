@@ -13,7 +13,7 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - A primer in machine learning
 - The “Hello World” of neural networks
 - Working through “Hello World” in TensorFlow and Python
-- Assignment 1- [Predicting house price.ipynb](https://github.com/richakbee/Tensorflow-in-Practice-Specialization/blob/main/1.%20Introduction%20to%20Tensorflow/Hands%20On%20Assignments/Exercise%201-%20House%20Price/Exercise_1_House_Prices_Answer.ipynb)
+- Assignment 1- [Predicting house price](https://github.com/richakbee/Tensorflow-in-Practice-Specialization/blob/main/1.%20Introduction%20to%20Tensorflow/Hands%20On%20Assignments/Exercise%201-%20House%20Price/Exercise_1_House_Prices_Answer.ipynb)
 
 ## Week 2: Introduction to Computer Vision
 
@@ -24,7 +24,7 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - Walk through a notebook for computer vision
 - Using callbacks to control training
 - Walk through a notebook with callbacks
-- Assignment 2- Classifying Fashion MNIST with MLP.ipynb
+- Assignment 2- [Classifying Digit MNIST with MLP](https://github.com/richakbee/Tensorflow-in-Practice-Specialization/blob/main/1.%20Introduction%20to%20Tensorflow/Hands%20On%20Assignments/Exercise%202-%20Handwritten%20Recognition/Exercise2-Answer.ipynb)
 
 ## Week 3: Enhancing Vision with Convolutional Neural Networks
 
@@ -34,7 +34,7 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - Implementing pooling layers
 - Improving the fashion classifier with convolutions
 - Walking through convolutions
-- Assignment 3 - Classifying Fashion MNIST with CNN.ipynb
+- Assignment 3 - [Classifying Digit MNIST with CNN](https://github.com/richakbee/Tensorflow-in-Practice-Specialization/blob/main/1.%20Introduction%20to%20Tensorflow/Hands%20On%20Assignments/Exercise%203-Convolutions/Excercise-3-Answer.ipynb)
 
 ## Week 4: Using Real-World Images
 
@@ -46,7 +46,7 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - Walking through training the ConvNet with fit_generator
 - Adding automatic validation to test accuracy
 - Exploring the impact of compressing images
-- Assignment 4 - Classifying emotion with CNN.ipynb
+- Assignment 4 - [Classifying emotion(happy or sad) with CNN](https://github.com/richakbee/Tensorflow-in-Practice-Specialization/blob/main/1.%20Introduction%20to%20Tensorflow/Hands%20On%20Assignments/Exercise%204-Handling%20Complex%20Images/Exercise4-Answer.ipynb)
 
 # Course 2: Convolutional Neural Networks in TensorFlow
 
@@ -59,7 +59,7 @@ This second course teaches you advanced techniques to improve the computer visio
 - Working through the notebook
 - Fixing through cropping
 - Looking at accuracy and loss
-- Assignment 1 - Classifying Cats and Dogs.ipynb
+- Assignment 1 - [Classifying Cats and Dogs](https://github.com/richakbee/Tensorflow-in-Practice-Specialization/blob/main/2.%20Convolution%20Neural%20Networks%20in%20Tensorflow/Hands%20on%20Assignments/Exercise-1%20Real%20World%20Convolution%20Scenarios/Exercise_1_Cats_vs_Dogs_Question-FINAL.ipynb)
 
 ## Week 2: Augmentation, a Technique to Avoid Overfitting
 
@@ -69,7 +69,7 @@ This second course teaches you advanced techniques to improve the computer visio
 - Demonstrating overfitting in cats vs. dogs dataset
 - Adding augmentation to cats vs. dogs dataset
 - Exploring augmentation with horses vs. humans dataset
-- Assignment 2 - Improving Cats and Dogs Classifier.ipynb
+- Assignment 2 - [Improving Cats and Dogs Classifier (using augmentation)](https://github.com/richakbee/Tensorflow-in-Practice-Specialization/blob/main/2.%20Convolution%20Neural%20Networks%20in%20Tensorflow/Hands%20on%20Assignments/Exercise-2%20Cats%20Vs%20Dogs%20using%20Augmentation/Exercise_2_Cats_vs_Dogs_using_augmentation_Question-FINAL.ipynb)
 
 ## Week 3: Transfer Learning
 
@@ -78,7 +78,7 @@ This second course teaches you advanced techniques to improve the computer visio
 - Coding your own model with transferred features
 - Exploring dropouts
 - Exploring transfer learning with inception
-- Assignment 3 - Transfer learning (VGG Net).ipynb
+- Assignment 3 - [Transfer learning (InceptionV3)](https://github.com/richakbee/Tensorflow-in-Practice-Specialization/blob/main/2.%20Convolution%20Neural%20Networks%20in%20Tensorflow/Hands%20on%20Assignments/Exercise-3%20Transfer%20Learning/Exercise_3_Horses_vs_humans_using_Transfer_Learning_Question-FINAL.ipynb)
 
 ## Week 4: Multi-class Classifications
 
@@ -87,7 +87,7 @@ This second course teaches you advanced techniques to improve the computer visio
 - Exploring multi-class classification with the rock paper scissors dataset
 - Training a classifier with the rock paper scissors dataset
 - Testing the rock paper scissors classifier
-- Assignment 4 - Classifying images of sign languages.ipynb
+- Assignment 4 - [Classifying images of sign languages](https://github.com/richakbee/Tensorflow-in-Practice-Specialization/blob/main/2.%20Convolution%20Neural%20Networks%20in%20Tensorflow/Hands%20on%20Assignments/Exercise-4%20Muli%20class%20%20with%20Signs/Exercise_4_Multi_class_classifier_Question-FINAL.ipynb)
 
 # Course 3: Natural Language Processing in TensorFlow
 
