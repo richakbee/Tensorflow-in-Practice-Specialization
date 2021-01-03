@@ -9,8 +9,8 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 
 ## Week 1: A New Programming Paradigm
 
-> Introduction: A conversation with Andrew Ng
-> A primer in machine learning
-> The “Hello World” of neural networks
-> Working through “Hello World” in TensorFlow and Python
-> Week 1 - Predicting house price.ipynb
+- Introduction: A conversation with Andrew Ng
+- A primer in machine learning
+- The “Hello World” of neural networks
+- Working through “Hello World” in TensorFlow and Python
+- Week 1 - Predicting house price.ipynb
