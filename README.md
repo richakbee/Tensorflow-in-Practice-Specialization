@@ -13,7 +13,7 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - A primer in machine learning
 - The “Hello World” of neural networks
 - Working through “Hello World” in TensorFlow and Python
-- Assignment 1- https://github.com/richakbee/Tensorflow-in-Practice-Specialization/blob/main/1.%20Introduction%20to%20Tensorflow/Hands%20On%20Assignments/Exercise%201-%20House%20Price/Exercise_1_House_Prices_Answer.ipynb Predicting house price.ipynb
+- Assignment 1- [Predicting house price.ipynb](https://github.com/richakbee/Tensorflow-in-Practice-Specialization/blob/main/1.%20Introduction%20to%20Tensorflow/Hands%20On%20Assignments/Exercise%201-%20House%20Price/Exercise_1_House_Prices_Answer.ipynb Predicting house price.ipynb)
 
 ## Week 2: Introduction to Computer Vision
 
