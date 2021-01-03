@@ -1,6 +1,7 @@
 
 ![image](https://github.com/richakbee/Tensorflow-in-Practice-Specialization/blob/main/TensorFlow%20in%20Practice%20Specialization.png)
 
+**My certification** : https://coursera.org/share/9fac19050fc05b3e723d9ce7f3eaf1e4
 
 # Course 1: Introduction to TensorFlow for AI, ML and DL
 
